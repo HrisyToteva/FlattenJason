@@ -12,7 +12,7 @@ namespace CodingChallenge
         {
             string input = String.Empty;
 
-            Console.SetIn(new StreamReader(Console.OpenStandardInput(8192))); 
+            Console.SetIn(new StreamReader(Console.OpenStandardInput(8192)));
             while (Console.In.Peek() != -1)
             {
                 input = Console.In.ReadLine();
@@ -26,7 +26,6 @@ namespace CodingChallenge
 
             var flattenedJsonString = JsonConvert.SerializeObject(properties, Formatting.Indented);
             Console.WriteLine(flattenedJsonString);
-
         }
 
     }

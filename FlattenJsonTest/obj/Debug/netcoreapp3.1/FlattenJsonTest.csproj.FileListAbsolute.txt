@@ -10,7 +10,6 @@ C:\Users\PC\source\repos\CodingChallenge\FlattenJsonTest\bin\Debug\netcoreapp3.1
 C:\Users\PC\source\repos\CodingChallenge\FlattenJsonTest\bin\Debug\netcoreapp3.1\FlattenJsonTest.runtimeconfig.dev.json
 C:\Users\PC\source\repos\CodingChallenge\FlattenJsonTest\bin\Debug\netcoreapp3.1\FlattenJsonTest.dll
 C:\Users\PC\source\repos\CodingChallenge\FlattenJsonTest\bin\Debug\netcoreapp3.1\FlattenJsonTest.pdb
-C:\Users\PC\source\repos\CodingChallenge\FlattenJsonTest\bin\Debug\netcoreapp3.1\JsonFlatten.dll
 C:\Users\PC\source\repos\CodingChallenge\FlattenJsonTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
 C:\Users\PC\source\repos\CodingChallenge\FlattenJsonTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
 C:\Users\PC\source\repos\CodingChallenge\FlattenJsonTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll

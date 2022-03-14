@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ONLLrZoPTsiEZWlD0u1kkHU5M+Cg8nNA1HVJpQxblhphXE6ZEV/wniL123ZNdYMk6UJu4rkmhFFxaWw94Cea9g==",
+  "dgSpecHash": "I5zLh1P80/YU8CMAhT/kp/kMgof5RVO92JiwP1hw7b3AATljCjD/DM2Vnc5YN1PxABQo1x4dFvISiBhr/jvSxw==",
   "success": true,
   "projectFilePath": "C:\\Users\\PC\\source\\repos\\CodingChallenge\\FlattenJsonTest\\FlattenJsonTest.csproj",
   "expectedPackageFiles": [
@@ -18,9 +18,7 @@
     "C:\\Users\\PC\\.nuget\\packages\\xunit.core\\2.4.0\\xunit.core.2.4.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\xunit.extensibility.core\\2.4.0\\xunit.extensibility.core.2.4.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\xunit.extensibility.execution\\2.4.0\\xunit.extensibility.execution.2.4.0.nupkg.sha512",
-    "C:\\Users\\PC\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.0\\xunit.runner.visualstudio.2.4.0.nupkg.sha512",
-    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\3.1.18\\microsoft.netcore.app.runtime.linux-x64.3.1.18.nupkg.sha512",
-    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\3.1.18\\microsoft.aspnetcore.app.runtime.linux-x64.3.1.18.nupkg.sha512"
+    "C:\\Users\\PC\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.0\\xunit.runner.visualstudio.2.4.0.nupkg.sha512"
   ],
   "logs": []
 }
