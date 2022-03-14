@@ -6,7 +6,7 @@
 # Launch
 -Navigate to the project folder
 ## Run the program on Windows 
-  - <project folder>\CodingChallenge\bin\Release\netcoreapp3.1\publish
+  - <<project folder>>\CodingChallenge\bin\Release\netcoreapp3.1\publish
   - echo jsonfile.json | CodingChallenge
 ## Run the program on Linux
    - <project folder>\CodingChallenge\bin\Release\netcoreapp3.1\ubuntu.16.04-x64\publish
