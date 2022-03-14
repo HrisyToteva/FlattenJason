@@ -3,5 +3,4 @@ C:\Users\PC\source\repos\CodingChallenge\CodingChallenge\bin\Release\netcoreapp3
 C:\Users\PC\source\repos\CodingChallenge\CodingChallenge\bin\Release\netcoreapp3.1\publish\CodingChallenge.deps.json
 C:\Users\PC\source\repos\CodingChallenge\CodingChallenge\bin\Release\netcoreapp3.1\publish\CodingChallenge.runtimeconfig.json
 C:\Users\PC\source\repos\CodingChallenge\CodingChallenge\bin\Release\netcoreapp3.1\publish\CodingChallenge.pdb
-C:\Users\PC\source\repos\CodingChallenge\CodingChallenge\bin\Release\netcoreapp3.1\publish\JsonFlatten.dll
 C:\Users\PC\source\repos\CodingChallenge\CodingChallenge\bin\Release\netcoreapp3.1\publish\Newtonsoft.Json.dll

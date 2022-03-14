@@ -4,7 +4,6 @@ C:\Users\PC\source\repos\CodingChallenge\CodingChallenge\bin\Release\netcoreapp3
 C:\Users\PC\source\repos\CodingChallenge\CodingChallenge\bin\Release\netcoreapp3.1\ubuntu.16.04-x64\CodingChallenge.runtimeconfig.dev.json
 C:\Users\PC\source\repos\CodingChallenge\CodingChallenge\bin\Release\netcoreapp3.1\ubuntu.16.04-x64\CodingChallenge.dll
 C:\Users\PC\source\repos\CodingChallenge\CodingChallenge\bin\Release\netcoreapp3.1\ubuntu.16.04-x64\CodingChallenge.pdb
-C:\Users\PC\source\repos\CodingChallenge\CodingChallenge\bin\Release\netcoreapp3.1\ubuntu.16.04-x64\JsonFlatten.dll
 C:\Users\PC\source\repos\CodingChallenge\CodingChallenge\bin\Release\netcoreapp3.1\ubuntu.16.04-x64\Newtonsoft.Json.dll
 C:\Users\PC\source\repos\CodingChallenge\CodingChallenge\bin\Release\netcoreapp3.1\ubuntu.16.04-x64\Microsoft.CSharp.dll
 C:\Users\PC\source\repos\CodingChallenge\CodingChallenge\bin\Release\netcoreapp3.1\ubuntu.16.04-x64\Microsoft.VisualBasic.Core.dll
